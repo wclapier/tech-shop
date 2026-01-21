@@ -2,7 +2,7 @@
 
 # micro:bit 
 https://microbit.org/get-started/features/overview/
-file:///Users/wclapier/Downloads/microbit%20annotated%20poster.pdf
+https://microbit.org/teach/classroom-resources/annotated-microbit-poster/
 
 Intro:
 https://www.youtube.com/watch?v=7WMCgUIcKnk
