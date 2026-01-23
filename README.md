@@ -1,6 +1,21 @@
 # tech-shop
 
-# micro:bit 
+## Electronics
+
+### Physics
+
+### Voltage
+
+### Motors
+
+
+## Computers
+
+## Programming
+
+
+
+## micro:bit 
 https://microbit.org/get-started/features/overview/
 
 https://microbit.org/teach/classroom-resources/annotated-microbit-poster/
