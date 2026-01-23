@@ -18,6 +18,15 @@ https://www.youtube.com/watch?v=CWulQ1ZSE3c
 Leo's Bag of Tricks Lesson 1
 https://www.youtube.com/watch?v=SGvOmwZvhVk
 
+Ohm's Law
+https://www.youtube.com/watch?v=8jB6hDUqN0Y
+
+DC Circuits
+https://www.youtube.com/watch?v=fHoHYEZnVIg
+
+AC Circuits
+https://www.youtube.com/watch?v=lf_HBWfFdNY
+
 
 ## Computers
 
