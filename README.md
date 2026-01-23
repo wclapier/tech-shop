@@ -4,9 +4,19 @@
 
 ### Physics
 
-### Voltage
+Electromagnetism 101 Nat Geo
 
-### Motors
+https://www.youtube.com/watch?v=Elv3WpL32UE
+
+Electromagnetism Khan Academy
+
+https://www.youtube.com/watch?v=Je_f4RimfKI
+
+DC Motors
+https://www.youtube.com/watch?v=CWulQ1ZSE3c
+
+Leo's Bag of Tricks Lesson 1
+https://www.youtube.com/watch?v=SGvOmwZvhVk
 
 
 ## Computers
