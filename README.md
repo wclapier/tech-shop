@@ -27,6 +27,10 @@ https://www.youtube.com/watch?v=fHoHYEZnVIg
 AC Circuits
 https://www.youtube.com/watch?v=lf_HBWfFdNY
 
+Types of Motor/Actuator
+https://www.youtube.com/watch?v=s0ABQYxSVdg
+
+
 
 ## Computers
 
@@ -49,5 +53,7 @@ Neopixel:
 https://support.microbit.org/support/solutions/articles/19000130206-using-neopixels-with-the-micro-bit
 
 ## motor:bit 
+
+https://www.youtube.com/watch?v=BDMm0C94wEw
 
 https://learn.sparkfun.com/tutorials/microbot-kit-experiment-guide/about-the-motobit-board
